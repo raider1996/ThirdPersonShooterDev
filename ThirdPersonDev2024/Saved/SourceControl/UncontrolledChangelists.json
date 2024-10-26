@@ -6,16 +6,24 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Gun/Bullet_BP.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Gun/Ammo_Widget.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Gun/Bullet_BP.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Gun/Ammo_Widget.uasset",
-				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Enermy/EnermyBp.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Enermy/Enermy_BP.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BE/F8IK3W7UQY6SCN35FZPU17.uasset",
 				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/Y6UATBY100L0X8CPXWASGR.uasset",
-				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XD/88V7422ULPBMLJTT1IB74I.uasset"
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XD/88V7422ULPBMLJTT1IB74I.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Enermy/Enermy_Spawn/EnemySpawn_BP.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Kill_Count/KillCount_Widget.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Ammo_Crate/AmmoCrate_BP.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XD/36474OL43YEBQQN03W2VMI.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Enermy/Enermy_Child.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Heath/Heath_Widget.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Gun/EnermyBullet_BP.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Gun/Bullet_BP.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Gun/Ammo_Widget.uasset",
+				"C:/Users/D3243705/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Enermy/EnermyBp.uasset"
 			]
 		}
 	]
