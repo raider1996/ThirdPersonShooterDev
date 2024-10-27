@@ -991,3 +991,903 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.27-00.45.26:534][  3]LogSourceControl: Uncontrolled asset enumeration started...
 [2024.10.27-00.45.26:763][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010005 seconds (updated 0 objects)
 [2024.10.27-00.45.27:097][  4]LogSourceControl: Uncontrolled asset enumeration finished in 0.563604 seconds (Found 7383 uncontrolled assets)
+[2024.10.27-02.44.51:111][451]LogDerivedDataCache: C:/Users/nicole/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.247 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.27-03.00.51:988][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-03.00.52:461][516]LogUObjectHash: Compacting FUObjectHashTables data took  22.60ms
+[2024.10.27-03.00.52:583][516]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.075108 seconds
+[2024.10.27-03.00.52:698][516]LogWorldPartition: Can't find class descriptor '/Game/Game_Files/menu/Menu.Menu_C' for saving '/Game/Game_Files/menu/Menu.Menu_C'
+[2024.10.27-03.00.52:698][516]LogWorldPartition: Can't find class descriptor '/Game/Game_Files/menu/Menu.Menu_C' for saving '/Game/Game_Files/menu/Menu.Menu_C'
+[2024.10.27-03.00.52:702][516]LogSavePackage: Moving output files for package: /Game/Game_Files/menu/Menu
+[2024.10.27-03.00.52:704][516]LogSavePackage: Moving 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Saved/Menu387B0CBA44FA57493B3CE58CE7145EA8.tmp' to 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/menu/Menu.umap'
+[2024.10.27-03.00.52:721][516]LogFileHelpers: Saving map 'Menu' took 0.590
+[2024.10.27-03.00.52:727][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 741.199 ms
+[2024.10.27-03.00.52:788][516]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-03.00.52:788][516]LogContentValidation: Enabled validators:
+[2024.10.27-03.00.52:788][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-03.00.52:788][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-03.00.52:789][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-03.00.52:791][516]LogContentValidation: Display: Validating asset /Game/Game_Files/menu/Menu.Menu
+[2024.10.27-03.00.52:808][516]AssetCheck: /Game/Game_Files/menu/Menu Validating asset
+[2024.10.27-03.00.58:821][200]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.27-03.00.58:835][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.27-03.00.59:065][200]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.27-03.00.59:065][200]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.27-03.00.59:066][200]LogPlayLevel: Creating play world package: /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.00.59:083][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014642s)
+[2024.10.27-03.00.59:083][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Files/menu/Menu.Menu to /Game/Game_Files/menu/UEDPIE_0_Menu.Menu (0.017092s)
+[2024.10.27-03.00.59:091][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.27-03.00.59:094][200]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.00.59:100][200]LogPlayLevel: PIE: World Init took: (0.008281s)
+[2024.10.27-03.00.59:101][200]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-03.00.59:102][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.27-03.00.59:102][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-03.00.59:103][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-03.00.59:103][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-03.00.59:103][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-03.00.59:105][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.27-03.00.59:131][200]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.10.27-03.00.59:132][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-03.00.59:132][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-03.00.59:132][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-03.00.59:134][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.27-03.00.59:134][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.27-03.00.59:136][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.27-03.00.59:136][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.27-03.00.59:136][200]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.27-03.00.59:136][200]LogAudio: Display: Audio Device (ID: 2) registered with world 'Menu'.
+[2024.10.27-03.00.59:136][200]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.27-03.00.59:171][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.00.59:706][200]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.00.59:712][200]LogWorld: Bringing World /Game/Game_Files/menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2024.10.27-03.00.59
+[2024.10.27-03.00.59:742][200]LogWorld: Bringing up level for play took: 0.034793
+[2024.10.27-03.00.59:748][200]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.10.27-03.00.59:772][200]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Game_Files/Other-assets/player-bullet.player-bullet being ready before playing
+[2024.10.27-03.00.59:874][200]LogMovieScene: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2024.10.27-03.00.59:932][200]PIE: Server logged in
+[2024.10.27-03.00.59:934][200]PIE: Play in editor total start time 1.1 seconds.
+[2024.10.27-03.00.59:994][200]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'menu_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.01.03:842][202]LogAutomationController: Ignoring very large delta of 3.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.27-03.01.05:716][206]LogSlate: Took 0.022085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.10.27-03.01.06:425][216]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap"
+[2024.10.27-03.01.06:425][216]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.01.06:425][216]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.01.06:426][216]LogWorld: BeginTearingDown for /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.01.06:430][216]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.01.06:430][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.01.06:431][216]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.01.06:431][216]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.01.06:476][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.27-03.01.06:489][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.27-03.01.06:765][216]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.10.27-03.01.06:765][216]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.01.06:767][216]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.27-03.01.06:768][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.27-03.01.06:769][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.10.27-03.01.06:769][216]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.27-03.01.06:795][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.10.27-03.01.06:799][216]LogStreaming: Display: FlushAsyncLoading(1): 42 QueuedPackages, 0 AsyncPackages
+[2024.10.27-03.01.07:133][216]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Game_Files/hotdog-character/hotdog-running/HOTDOG-RUNNING_Anim.HOTDOG-RUNNING_Anim (Required Memory Estimate: 0.93 MB)
+[2024.10.27-03.01.07:145][216]LogAnimationCompression: Display: Storing compressed animation data for /Game/Game_Files/hotdog-character/hotdog-running/HOTDOG-RUNNING_Anim.HOTDOG-RUNNING_Anim, at AnimationSequence/5a50d5f022fc3891135bc244dd3f94aeb20a3cb8
+[2024.10.27-03.01.07:274][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 478.759 ms
+[2024.10.27-03.01.07:281][216]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.10.27-03.01.07:282][216]LogWorldPartition: Display: WorldPartition initialize took 514.527 ms
+[2024.10.27-03.01.07:282][216]LogPlayLevel: PIE: World Init took: (0.517010s)
+[2024.10.27-03.01.07:282][216]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.01.07:289][216]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder being ready before playing
+[2024.10.27-03.01.07:289][216]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube being ready before playing
+[2024.10.27-03.01.07:290][216]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube being ready before playing
+[2024.10.27-03.01.07:290][216]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp being ready before playing
+[2024.10.27-03.01.07:290][216]LogStaticMesh: Display: Waiting for static meshes to be ready 2/4 (/Game/LevelPrototyping/Meshes/SM_Cube) ...
+[2024.10.27-03.01.07:329][216]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.10.27-03.01.07
+[2024.10.27-03.01.07:330][216]LogWorld: Bringing up level for play took: 0.003930
+[2024.10.27-03.01.07:353][216]LogLoad: Took 0.927728 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
+[2024.10.27-03.01.07:353][216]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.01.07:358][216]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'level_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.01.18:948][412]LogCharacterMovement: Enermy_BP_C_3 is stuck and failed to move! Velocity: X=68.11 Y=-81.64 Z=0.00 Location: X=1972.77 Y=924.82 Z=84.18 Normal: X=-0.72 Y=0.69 Z=0.12 PenetrationDepth:0.971 Actor:EnermyBullet_BP_C_39 Component:Sphere BoneName:None (0 other events since notify)
+[2024.10.27-03.01.20:175][435]LogCharacterMovement: Enermy_BP_C_0 is stuck and failed to move! Velocity: X=-52.11 Y=-28.35 Z=0.00 Location: X=1994.17 Y=851.66 Z=83.87 Normal: X=-0.98 Y=0.22 Z=0.00 PenetrationDepth:9.943 Actor:Bullet_BP_C_10 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.01.25:500][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.01.25:500][533]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.10.27-03.01.25:500][533]LogSlate: Window 'ThirdPersonDev2024 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.27-03.01.25:615][533]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.01.25:617][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.01.25:617][533]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.10.27-03.01.25:617][533]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.10.27-03.01.25:618][533]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.01.25:618][533]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.01.25:634][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-03.01.25:636][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.01.25:641][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.27-03.01.25:641][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.27-03.01.25:650][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.27-03.01.25:669][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.27-03.01.25:736][534]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.10.27-03.01.29:885][  3]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (walking-animation) ...
+[2024.10.27-03.01.32:884][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game_Files/Blueprints/Character_BP.Character_BP
+[2024.10.27-03.01.35:402][239]LogTexture: Display: Waiting for textures to be ready 1/2 (/Engine/EditorResources/TilePatine_N) ...
+[2024.10.27-03.01.35:725][239]LogSlate: Took 0.014225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.27-03.01.36:390][239]LogAutomationController: Ignoring very large delta of 3.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.27-03.01.52:856][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.10.27-03.01.53:578][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-03.01.53:638][745]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game_Files/Blueprints/Character_BP] ([2] browsable assets)...
+[2024.10.27-03.01.53:737][745]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Game_Files/Blueprints/Character_BP.Character_BP_C]
+[2024.10.27-03.01.53:749][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game_Files/Blueprints/Character_BP.Character_BP]
+[2024.10.27-03.01.53:749][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Files/Blueprints/Character_BP]
+[2024.10.27-03.01.53:774][745]LogSavePackage: Moving output files for package: /Game/Game_Files/Blueprints/Character_BP
+[2024.10.27-03.01.53:775][745]LogSavePackage: Moving 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Saved/Character_BPAE5B59124D4E17D43D7FCB8E6989DEE7.tmp' to 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Blueprints/Character_BP.uasset'
+[2024.10.27-03.01.53:783][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.606 ms (total: 946.805 ms)
+[2024.10.27-03.01.53:836][745]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-03.01.53:836][745]LogContentValidation: Enabled validators:
+[2024.10.27-03.01.53:836][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-03.01.53:836][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-03.01.53:836][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-03.01.53:836][745]LogContentValidation: Display: Validating asset /Game/Game_Files/Blueprints/Character_BP.Character_BP
+[2024.10.27-03.01.53:836][745]AssetCheck: /Game/Game_Files/Blueprints/Character_BP Validating asset
+[2024.10.27-03.02.00:038][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game_Files/Gun/Bullet_BP.Bullet_BP
+[2024.10.27-03.02.27:453][424]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.27-03.02.27:461][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.27-03.02.27:461][424]LogPlayLevel: Creating play world package: /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.02.27:463][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001831s)
+[2024.10.27-03.02.27:463][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Files/menu/Menu.Menu to /Game/Game_Files/menu/UEDPIE_0_Menu.Menu (0.001868s)
+[2024.10.27-03.02.27:480][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.27-03.02.27:481][424]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.02.27:482][424]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2024.10.27-03.02.27:482][424]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-03.02.27:483][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.27-03.02.27:483][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-03.02.27:483][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-03.02.27:483][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-03.02.27:483][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-03.02.27:485][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.27-03.02.27:504][424]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.10.27-03.02.27:504][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-03.02.27:504][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-03.02.27:504][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-03.02.27:505][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.27-03.02.27:505][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.27-03.02.27:506][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.27-03.02.27:506][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.27-03.02.27:506][424]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.27-03.02.27:506][424]LogAudio: Display: Audio Device (ID: 3) registered with world 'Menu'.
+[2024.10.27-03.02.27:506][424]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.27-03.02.27:568][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.02.27:568][424]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.02.27:571][424]LogWorld: Bringing World /Game/Game_Files/menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2024.10.27-03.02.27
+[2024.10.27-03.02.27:571][424]LogWorld: Bringing up level for play took: 0.001573
+[2024.10.27-03.02.27:573][424]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.10.27-03.02.27:573][424]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.27-03.02.27:578][424]LogMovieScene: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2024.10.27-03.02.27:581][424]PIE: Server logged in
+[2024.10.27-03.02.27:582][424]PIE: Play in editor total start time 0.12 seconds.
+[2024.10.27-03.02.27:584][424]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'menu_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.02.29:484][453]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap"
+[2024.10.27-03.02.29:484][453]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.02.29:484][453]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.02.29:484][453]LogWorld: BeginTearingDown for /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.02.29:485][453]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.02.29:485][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.02.29:485][453]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.02.29:485][453]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.02.29:528][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.27-03.02.29:535][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.10.27-03.02.29:563][453]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.10.27-03.02.29:563][453]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.02.29:564][453]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.27-03.02.29:564][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.27-03.02.29:564][453]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.10.27-03.02.29:564][453]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.27-03.02.29:569][453]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.10.27-03.02.29:572][453]LogStreaming: Display: FlushAsyncLoading(43): 42 QueuedPackages, 0 AsyncPackages
+[2024.10.27-03.02.29:598][453]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 27.784 ms (total: 506.543 ms)
+[2024.10.27-03.02.29:601][453]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.10.27-03.02.29:601][453]LogWorldPartition: Display: WorldPartition initialize took 36.652 ms (total: 551.180 ms)
+[2024.10.27-03.02.29:601][453]LogPlayLevel: PIE: World Init took: (0.038233s)
+[2024.10.27-03.02.29:601][453]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.02.29:605][453]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.10.27-03.02.29
+[2024.10.27-03.02.29:606][453]LogWorld: Bringing up level for play took: 0.003841
+[2024.10.27-03.02.29:613][453]LogLoad: Took 0.128896 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
+[2024.10.27-03.02.29:613][453]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.02.29:618][453]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'level_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.02.34:701][557]LogCharacterMovement: Enermy_BP_C_1 is stuck and failed to move! Velocity: X=-30.37 Y=-93.04 Z=0.00 Location: X=775.61 Y=1191.00 Z=234.17 Normal: X=-0.51 Y=0.19 Z=0.84 PenetrationDepth:28.210 Actor:Bullet_BP_C_5 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.02.36:245][588]LogCharacterMovement: Enermy_BP_C_1 is stuck and failed to move! Velocity: X=47.04 Y=-24.06 Z=0.00 Location: X=830.07 Y=1106.77 Z=133.19 Normal: X=-0.44 Y=-0.11 Z=0.89 PenetrationDepth:128.205 Actor:Bullet_BP_C_7 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.02.36:738][598]LogCharacterMovement: Enermy_BP_C_2 is stuck and failed to move! Velocity: X=13.09 Y=-249.66 Z=0.00 Location: X=805.46 Y=1372.53 Z=82.73 Normal: X=0.13 Y=0.76 Z=-0.63 PenetrationDepth:153.403 Actor:Bullet_BP_C_8 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.02.38:826][644]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:826][644]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:826][644]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:826][644]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:826][644]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:826][644]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:829][644]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:829][644]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.38:850][645]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.27-03.02.38:856][645]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:856][645]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:856][645]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:856][645]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:856][645]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:856][645]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:859][645]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:859][645]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.38:889][646]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:889][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:889][646]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:889][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:889][646]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:889][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:893][646]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:893][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.38:923][647]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:923][647]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:923][647]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:923][647]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:923][647]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:923][647]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:927][647]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:927][647]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.38:956][648]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:956][648]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:956][648]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:956][648]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:956][648]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:956][648]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:960][648]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:960][648]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.38:989][649]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.38:989][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:989][649]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.38:989][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.38:990][649]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.38:990][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.38:993][649]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.38:993][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:022][650]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.39:022][650]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:022][650]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.39:022][650]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:022][650]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:022][650]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:026][650]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:026][650]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:055][651]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0027
+[2024.10.27-03.02.39:055][651]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:055][651]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Ammo_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Ammo_Widget_C_0
+	Function /Game/Game_Files/Gun/Ammo_Widget.Ammo_Widget_C:GetText:0062
+[2024.10.27-03.02.39:055][651]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:055][651]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:055][651]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:060][651]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:060][651]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:087][652]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:087][652]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:087][652]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:089][652]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:092][652]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:092][652]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:121][653]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:121][653]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:121][653]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:121][653]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:125][653]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:125][653]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:153][654]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:153][654]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:153][654]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:153][654]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:156][654]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:156][654]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:186][655]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:186][655]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:186][655]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:186][655]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:189][655]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:190][655]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:218][656]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:218][656]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:218][656]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:218][656]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:221][656]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:221][656]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:250][657]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:250][657]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:250][657]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:250][657]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:253][657]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:253][657]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:282][658]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:282][658]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:282][658]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:282][658]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:286][658]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:286][658]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:315][659]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:315][659]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:315][659]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	KillCount_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.KillCount_Widget_C_0
+	Function /Game/Game_Files/Kill_Count/KillCount_Widget.KillCount_Widget_C:GetText:0027
+[2024.10.27-03.02.39:315][659]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:319][659]LogScript: Warning: Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)
+	Heath_Widget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Heath_Widget_C_0
+	Function /Game/Game_Files/Heath/Heath_Widget.Heath_Widget_C:GetPercent:0021
+[2024.10.27-03.02.39:319][659]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:347][660]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:347][660]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:347][660]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:350][660]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:380][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:380][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:380][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:383][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:413][662]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:413][662]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:413][662]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:415][662]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:445][663]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:446][663]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:446][663]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:448][663]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:478][664]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:478][664]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:478][664]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:482][664]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:510][665]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:510][665]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:510][665]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:513][665]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:543][666]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:543][666]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:543][666]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:546][666]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:575][667]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:575][667]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:575][667]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:579][667]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:606][668]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:606][668]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:606][668]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:610][668]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:638][669]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:639][669]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:639][669]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:642][669]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:671][670]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:671][670]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:671][670]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:674][670]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:703][671]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:703][671]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:703][671]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:706][671]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:735][672]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:735][672]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:735][672]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:738][672]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:767][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:767][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:767][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:771][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:799][674]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:799][674]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:800][674]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:803][674]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:831][675]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:831][675]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:832][675]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:835][675]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:864][676]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:864][676]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:864][676]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:868][676]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:897][677]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:897][677]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:897][677]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:900][677]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:929][678]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:929][678]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:929][678]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:932][678]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:962][679]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:962][679]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:962][679]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:965][679]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.39:995][680]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:995][680]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.39:996][680]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.39:998][680]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:027][681]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:027][681]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:027][681]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:030][681]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:060][682]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:060][682]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:060][682]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:063][682]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:092][683]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:092][683]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:092][683]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:095][683]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:125][684]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:125][684]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:125][684]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:128][684]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:157][685]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:157][685]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:157][685]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:160][685]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:189][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:189][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:189][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:192][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:222][687]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:222][687]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:222][687]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:226][687]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:254][688]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:254][688]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:254][688]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:258][688]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:286][689]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:286][689]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:286][689]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:289][689]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:319][690]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:319][690]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:319][690]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:324][690]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:351][691]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:351][691]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:351][691]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:354][691]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:383][692]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:383][692]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:383][692]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:387][692]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:415][693]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:415][693]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:415][693]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:420][693]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:448][694]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:449][694]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:449][694]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:452][694]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:482][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:482][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:482][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:486][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:513][696]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:513][696]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:513][696]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:515][696]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:545][697]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:545][697]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:546][697]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:549][697]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:579][698]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:579][698]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:579][698]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:582][698]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:611][699]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:611][699]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:611][699]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:614][699]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:643][700]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:643][700]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:643][700]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:646][700]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:676][701]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:676][701]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:676][701]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:678][701]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:707][702]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:707][702]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:707][702]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:711][702]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:739][703]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:739][703]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:740][703]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:743][703]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:772][704]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:772][704]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:772][704]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:776][704]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:805][705]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:805][705]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:805][705]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:808][705]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:836][706]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:836][706]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:836][706]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:839][706]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:869][707]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:869][707]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:869][707]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:872][707]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:902][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:902][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:902][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:905][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:935][709]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:935][709]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:935][709]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:938][709]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:967][710]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:967][710]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:967][710]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.40:971][710]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.40:999][711]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:999][711]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.40:999][711]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:002][711]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:032][712]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:032][712]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:032][712]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:036][712]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:063][713]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:063][713]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:064][713]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:067][713]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:096][714]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:096][714]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:096][714]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:099][714]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:129][715]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:129][715]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:129][715]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:132][715]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:161][716]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:161][716]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:161][716]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:164][716]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:193][717]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:193][717]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  Ammo_Widget
+[2024.10.27-03.02.41:193][717]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  KillCount_Widget
+[2024.10.27-03.02.41:196][717]PIE: Error: Blueprint Runtime Error: "Attempted to access Character_BP_C_0 via property As Character BP, but Character_BP_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  Heath_Widget
+[2024.10.27-03.02.41:259][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.02.41:259][718]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.10.27-03.02.41:259][718]LogSlate: Window 'ThirdPersonDev2024 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.27-03.02.41:321][718]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.02.41:322][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.02.41:322][718]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.10.27-03.02.41:322][718]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.10.27-03.02.41:322][718]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.02.41:322][718]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.02.41:327][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-03.02.41:332][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.02.41:347][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.27-03.02.41:347][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.27-03.02.41:349][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.27-03.02.41:361][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.27-03.02.41:823][719]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.10.27-03.02.44:135][916]LogSlate: Window 'Message Log' being destroyed
+[2024.10.27-03.02.44:141][916]LogSlate: Window 'Message Log' being destroyed
+[2024.10.27-03.03.10:227][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.10.27-03.03.11:262][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-03.03.11:301][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game_Files/Gun/Bullet_BP] ([2] browsable assets)...
+[2024.10.27-03.03.11:362][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game_Files/Gun/Bullet_BP.Bullet_BP]
+[2024.10.27-03.03.11:362][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Files/Gun/Bullet_BP]
+[2024.10.27-03.03.11:368][926]LogSavePackage: Moving output files for package: /Game/Game_Files/Gun/Bullet_BP
+[2024.10.27-03.03.11:369][926]LogSavePackage: Moving 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Saved/Bullet_BP04B958BA4B041E017556F9B2A4FE8568.tmp' to 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Gun/Bullet_BP.uasset'
+[2024.10.27-03.03.11:375][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.873 ms (total: 1.05 sec)
+[2024.10.27-03.03.11:438][926]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-03.03.11:438][926]LogContentValidation: Enabled validators:
+[2024.10.27-03.03.11:438][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-03.03.11:438][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-03.03.11:438][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-03.03.11:438][926]LogContentValidation: Display: Validating asset /Game/Game_Files/Gun/Bullet_BP.Bullet_BP
+[2024.10.27-03.03.11:438][926]AssetCheck: /Game/Game_Files/Gun/Bullet_BP Validating asset
+[2024.10.27-03.03.14:020][197]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.27-03.03.14:026][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.27-03.03.14:027][197]LogPlayLevel: Creating play world package: /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.03.14:029][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002053s)
+[2024.10.27-03.03.14:029][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Files/menu/Menu.Menu to /Game/Game_Files/menu/UEDPIE_0_Menu.Menu (0.002098s)
+[2024.10.27-03.03.14:046][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.27-03.03.14:046][197]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.03.14:048][197]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2024.10.27-03.03.14:049][197]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-03.03.14:049][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.27-03.03.14:049][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-03.03.14:049][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-03.03.14:049][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-03.03.14:049][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-03.03.14:050][197]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.27-03.03.14:067][197]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.10.27-03.03.14:068][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-03.03.14:068][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-03.03.14:068][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-03.03.14:069][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.27-03.03.14:069][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.27-03.03.14:070][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.27-03.03.14:070][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.27-03.03.14:070][197]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.27-03.03.14:070][197]LogAudio: Display: Audio Device (ID: 4) registered with world 'Menu'.
+[2024.10.27-03.03.14:070][197]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.27-03.03.14:116][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.03.14:116][197]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.03.14:118][197]LogWorld: Bringing World /Game/Game_Files/menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2024.10.27-03.03.14
+[2024.10.27-03.03.14:119][197]LogWorld: Bringing up level for play took: 0.001433
+[2024.10.27-03.03.14:121][197]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.10.27-03.03.14:121][197]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.27-03.03.14:126][197]LogMovieScene: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2024.10.27-03.03.14:128][197]PIE: Server logged in
+[2024.10.27-03.03.14:129][197]PIE: Play in editor total start time 0.103 seconds.
+[2024.10.27-03.03.14:131][197]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'menu_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.03.15:783][229]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap"
+[2024.10.27-03.03.15:783][229]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.03.15:783][229]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.03.15:783][229]LogWorld: BeginTearingDown for /Game/Game_Files/menu/UEDPIE_0_Menu
+[2024.10.27-03.03.15:784][229]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.15:784][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.15:784][229]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.03.15:784][229]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.03.15:836][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.27-03.03.15:839][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.10.27-03.03.15:862][229]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.10.27-03.03.15:862][229]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-03.03.15:863][229]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.27-03.03.15:863][229]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.27-03.03.15:863][229]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.10.27-03.03.15:863][229]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.27-03.03.15:864][229]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.10.27-03.03.15:866][229]LogStreaming: Display: FlushAsyncLoading(85): 42 QueuedPackages, 0 AsyncPackages
+[2024.10.27-03.03.15:886][229]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 22.326 ms (total: 528.869 ms)
+[2024.10.27-03.03.15:889][229]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.10.27-03.03.15:889][229]LogWorldPartition: Display: WorldPartition initialize took 25.648 ms (total: 576.828 ms)
+[2024.10.27-03.03.15:889][229]LogPlayLevel: PIE: World Init took: (0.026687s)
+[2024.10.27-03.03.15:889][229]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.27-03.03.15:892][229]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.10.27-03.03.15
+[2024.10.27-03.03.15:892][229]LogWorld: Bringing up level for play took: 0.002407
+[2024.10.27-03.03.15:897][229]LogLoad: Took 0.113550 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
+[2024.10.27-03.03.15:897][229]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.27-03.03.15:900][229]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'level_music'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.10.27-03.03.18:571][286]LogCharacterMovement: Enermy_BP_C_1 is stuck and failed to move! Velocity: X=42.25 Y=-86.58 Z=0.00 Location: X=859.35 Y=1225.22 Z=84.38 Normal: X=-0.56 Y=0.54 Z=0.63 PenetrationDepth:8.378 Actor:Bullet_BP_C_1 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.03.22:332][364]LogCharacterMovement: Enermy_BP_C_1 is stuck and failed to move! Velocity: X=-92.64 Y=-23.63 Z=0.00 Location: X=326.63 Y=1120.49 Z=84.16 Normal: X=0.71 Y=0.07 Z=0.70 PenetrationDepth:14.841 Actor:Bullet_BP_C_14 Component:Sphere1 BoneName:None (3 other events since notify)
+[2024.10.27-03.03.28:446][489]LogCharacterMovement: Enermy_BP_C_3 is stuck and failed to move! Velocity: X=-40.06 Y=89.35 Z=0.00 Location: X=188.92 Y=2453.21 Z=84.64 Normal: X=0.19 Y=-0.70 Z=0.69 PenetrationDepth:14.175 Actor:Bullet_BP_C_34 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.10.27-03.03.35:259][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-03.03.35:259][619]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.10.27-03.03.35:259][619]LogSlate: Window 'ThirdPersonDev2024 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.27-03.03.35:373][619]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.35:374][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.35:374][619]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.10.27-03.03.35:375][619]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.10.27-03.03.35:375][619]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.03.35:375][619]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.03.35:381][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-03.03.35:385][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.35:402][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.27-03.03.35:403][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.27-03.03.35:404][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.27-03.03.35:416][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.27-03.03.35:434][620]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.10.27-03.03.37:813][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.27-03.03.39:051][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-03.03.39:102][989]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game_Files/Gun/Bullet_BP] ([2] browsable assets)...
+[2024.10.27-03.03.39:164][989]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game_Files/Gun/Bullet_BP.Bullet_BP]
+[2024.10.27-03.03.39:164][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Files/Gun/Bullet_BP]
+[2024.10.27-03.03.39:170][989]LogSavePackage: Moving output files for package: /Game/Game_Files/Gun/Bullet_BP
+[2024.10.27-03.03.39:171][989]LogSavePackage: Moving 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Saved/Bullet_BP3880F57046F4A39917EFD1B14AC01E6E.tmp' to 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/Gun/Bullet_BP.uasset'
+[2024.10.27-03.03.39:177][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.127 ms (total: 1.18 sec)
+[2024.10.27-03.03.39:215][989]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-03.03.39:215][989]LogContentValidation: Enabled validators:
+[2024.10.27-03.03.39:215][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-03.03.39:215][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-03.03.39:215][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-03.03.39:215][989]LogContentValidation: Display: Validating asset /Game/Game_Files/Gun/Bullet_BP.Bullet_BP
+[2024.10.27-03.03.39:215][989]AssetCheck: /Game/Game_Files/Gun/Bullet_BP Validating asset
+[2024.10.27-03.03.42:084][299]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.42:084][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.42:134][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.27-03.03.43:541][437]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.27-03.03.43:541][437]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.43:541][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.43:585][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.27-03.03.45:886][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-03.03.45:974][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.27-03.03.45:987][692]LogWorldPartition: Can't find class descriptor '/Game/Game_Files/menu/Menu.Menu_C' for saving '/Game/Game_Files/menu/Menu.Menu_C'
+[2024.10.27-03.03.45:987][692]LogWorldPartition: Can't find class descriptor '/Game/Game_Files/menu/Menu.Menu_C' for saving '/Game/Game_Files/menu/Menu.Menu_C'
+[2024.10.27-03.03.45:990][692]LogSavePackage: Moving output files for package: /Game/Game_Files/menu/Menu
+[2024.10.27-03.03.45:990][692]LogSavePackage: Moving 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Saved/Menu6F2C80E24CB6DE7E87574385C6228823.tmp' to 'C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/ThirdPersonShooterDev/ThirdPersonDev2024/Content/Game_Files/menu/Menu.umap'
+[2024.10.27-03.03.45:998][692]LogFileHelpers: Saving map 'Menu' took 0.063
+[2024.10.27-03.03.46:006][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.694 ms (total: 1.30 sec)
+[2024.10.27-03.03.46:065][692]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-03.03.46:065][692]LogContentValidation: Enabled validators:
+[2024.10.27-03.03.46:065][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-03.03.46:065][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-03.03.46:065][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-03.03.46:065][692]LogContentValidation: Display: Validating asset /Game/Game_Files/menu/Menu.Menu
+[2024.10.27-03.03.46:066][692]AssetCheck: /Game/Game_Files/menu/Menu Validating asset
+[2024.10.27-03.03.48:020][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.27-03.03.48:044][914]LogStall: Shutdown...
+[2024.10.27-03.03.48:048][914]LogStall: Shutdown complete.
+[2024.10.27-03.03.48:098][914]LogSlate: Window 'ThirdPersonDev2024 - Unreal Editor' being destroyed
+[2024.10.27-03.03.48:212][914]Cmd: QUIT_EDITOR
+[2024.10.27-03.03.48:212][915]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.27-03.03.48:215][915]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.27-03.03.48:216][915]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.10.27-03.03.48:216][915]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.10.27-03.03.48:217][915]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:217][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:217][915]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-03.03.48:217][915]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-03.03.48:549][915]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.10.27-03.03.48:552][915]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:552][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:556][915]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:556][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:558][915]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:558][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:561][915]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:561][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:563][915]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:563][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:566][915]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:566][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:570][915]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:570][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:574][915]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:574][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:577][915]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:577][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:582][915]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-03.03.48:582][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-03.03.48:765][915]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.10.27-03.03.48:767][915]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.10.27-03.03.48:767][915]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.10.27-03.03.48:767][915]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.10.27-03.03.49:444][915]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.27-03.03.49:444][915]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.27-03.03.49:444][915]LogAudio: Display: Audio Device unregistered from world 'Menu'.
+[2024.10.27-03.03.49:444][915]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.10.27-03.03.49:446][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.27-03.03.49:451][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.27-03.03.49:485][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.10.27-03.03.49:485][915]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.27-03.03.49:487][915]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.10.27-03.03.49:492][915]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.27-03.03.49:492][915]LogExit: Preparing to exit.
+[2024.10.27-03.03.49:551][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.10.27-03.03.49:556][915]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:556][915]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:570][915]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:571][915]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:571][915]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:572][915]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:573][915]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:573][915]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.49:573][915]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.27-03.03.50:674][915]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.10.27-03.03.50:735][915]LogExit: Editor shut down
+[2024.10.27-03.03.50:741][915]LogExit: Transaction tracking system shut down
+[2024.10.27-03.03.51:374][915]LogExit: Object subsystem successfully closed.
+[2024.10.27-03.03.51:405][915]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.27-03.03.52:538][915]MemoryProfiler: Shutdown
+[2024.10.27-03.03.52:538][915]NetworkingProfiler: Shutdown
+[2024.10.27-03.03.52:538][915]LoadingProfiler: Shutdown
+[2024.10.27-03.03.52:538][915]TimingProfiler: Shutdown
+[2024.10.27-03.03.52:856][915]LogOpenImageDenoise: OIDN shutting down
+[2024.10.27-03.03.53:779][915]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.10.27-03.03.53:779][915]RenderDocPlugin: plugin has been unloaded.
+[2024.10.27-03.03.53:791][915]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.10.27-03.03.53:791][915]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAE4AC381-48AE-854B-39CF-3E838D0DDF44%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=052c45d847a585edc1b22ea273dcbeab%7Cecd6d168570345978a1e5a670d891eaa%7C449e710a-a547-44d2-a3fd-77279caa31ec&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.10.27-03.03.53:836][915]LogPakFile: Destroying PakPlatformFile
+[2024.10.27-03.03.54:050][915]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.27-03.03.54:071][915]LogExit: Exiting.
+[2024.10.27-03.03.54:095][915]Log file closed, 10/27/24 03:03:54
